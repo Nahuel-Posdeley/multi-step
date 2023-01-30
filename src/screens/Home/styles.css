@@ -1,0 +1,14 @@
+.container__step{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+
+.title__home{
+   text-align:  center;
+   color: #1976d2;
+   font-size: 5vmin;
+   text-decoration: underline 2px;
+}

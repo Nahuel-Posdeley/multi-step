@@ -1,0 +1,10 @@
+.container__card__step{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.container__btn__card{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
